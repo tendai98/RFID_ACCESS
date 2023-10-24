@@ -2,20 +2,12 @@
 
 This project implements an RFID access control system using an ESP8266 and an MFRC522 RFID module. The system is designed to grant access to authorized users based on RFID card authentication. When an authorized RFID card is detected, the system opens a boom gate to allow access.
 
-## Features
-
-- Secure access control system using RFID technology.
-- Easy integration with the ESP8266 microcontroller.
-- Automatic boom gate operation upon successful RFID card detection.
-- Flexibility to add and manage authorized RFID cards.
-- Simple and efficient codebase.
-
 ## Hardware Requirements
 
 - ESP8266 microcontroller.
 - MFRC522 RFID module.
 - Servo motor.
-- RFID cards or key fobs (e.g., `VISITOR_TAG_1`).
+- RFID cards or key fobs
 
 ## Setup
 
